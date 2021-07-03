@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SRajKamal
 - 👀 I’m interested in ... AI,ML,Java projects, RPA 
 - 🌱 I’m currently learning ... RPA, Blockchain, IoT
-- 💞️ I’m looking to collaborate on ... IoT, Blockchain, ML,RPA no contraint
+- 💞️ I’m looking to collaborate on ... IoT, Blockchain, ML,RPA no constraint
 - 📫 How to reach me ...rajkamal19@gmail.com
 
 <!---
